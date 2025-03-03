@@ -25,4 +25,8 @@ public class JeuClient extends Jeu {
 	public void envoi() {
 	}
 
+	@Override
+	public void deconnexion() {
+	}
+
 }
